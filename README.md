@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @David-NV
-- 👀 I am interested in many things on the web world
-- 🌱 I am currently learning the basics to become a web developer
-- 💞️ I am looking to collaborate on a work-study program to train myself near Tours in France
+- 👀 I'm interested in many things in the digital world
+- 🌱 I'm currently in my first year of a Bachelor Of Engineering program at SUPINFO TOURS.
+- 💞️ I'm looking for an end-of-year internship in Tours and the surrounding area
 - 📫 How to reach me :
--       by mail => davidnv2000@hotmail.com
+-       by mail => david.nguyen-van@hotmail.com
 -       on linkedin: http://www.linkedin.com/in/david-nguyen-van/
 
 <!---
